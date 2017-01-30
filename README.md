@@ -2,4 +2,4 @@
 My first github project!
 
 
-This is a simple hello world program.
+This is a simple tutorial project. Nothing more.
